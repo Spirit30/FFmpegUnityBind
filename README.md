@@ -1,4 +1,5 @@
-# FFmpeg Unity Bind (Legacy solution. See: FFmpeg Unity Bind 2)
+# FFmpeg Unity Bind 
+Legacy solution, see: FFmpeg Unity Bind 2
 
 FFmpeg Unity Bind is a powerful solution to perform all kind of video editing operations. 17 years of Video Programming experience now can be easily integrated into every mobile cross-platform app. Thousands of developers enjoys a power of the product.
 FFmpeg Unity Bind is a functionality of complete Video Editor on phones and tablets (Supports IOS + Android).
